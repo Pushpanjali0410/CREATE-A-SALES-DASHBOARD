@@ -41,5 +41,5 @@
 
 ###### 11)Add  tree map into worksheet and add sum of sales in values,Category in category and region in details. 
 
-###### 12)Add slicers for ship mode ,order date ,category, region and organize the tiles properly into worksheet and select the dark view from view option
+###### 12)Add slicers for ship mode ,order date ,category, region and organize the tiles properly into worksheet and save the file.
 
